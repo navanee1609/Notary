@@ -43,9 +43,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to contact the project owner:
 
-- Your Name
-- Email: your@email.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Your Navaneethan
+- Email: navaneethanvs18@email.com
+- GitHub: (https://github.com/navanee1609)
 
 #Project Descriptive video
 
