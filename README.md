@@ -43,7 +43,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to contact the project owner:
 
-- Your Navaneethan
+- Navaneethan
 - Email: navaneethanvs18@email.com
 - GitHub: (https://github.com/navanee1609)
 
