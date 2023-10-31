@@ -53,6 +53,9 @@ If you have any questions or suggestions, feel free to contact the project owner
 
 https://github.com/navanee1609/Notary/assets/120004894/9038a899-bb5c-47ee-a18b-adfed6882a16
 
+##screenshot
 
+
+![Notary](https://github.com/navanee1609/Notary/assets/120004894/ec63da22-9e67-44e4-85e4-5827e841f823)
 
 
